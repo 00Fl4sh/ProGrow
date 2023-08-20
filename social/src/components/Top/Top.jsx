@@ -18,7 +18,7 @@ const Top = () => {
           <Link to="/" className="nav-item nav-logo">
             <img src="https://dz8fbjd9gwp2s.cloudfront.net/logos/63877d7ae4b0715e599aa5a1.png?v=17" alt="logo" width={90} />
           </Link>
-          <Link to="/Home" className="nav-item nav-btn">
+          <Link to="/MainHomeBar" className="nav-item nav-btn">
             Home
           </Link>
           <Link to="/MyNetwork" className="nav-item nav-btn">
